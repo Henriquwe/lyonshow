@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyonshow
-- 👀 I’m interested in ... Ethical Hacking and Software Development with Java and Python, sometime C;
-- 🌱 I’m currently learning ... Java, Python, MySQL, C++ C#.
+- 👀 I’m interested in ... Ethical Hacking and Software Development with Java and Python, sometime C
+- 🌱 I’m currently learning ... Java, Python, MySQL, C++ C#
 - 💞️ I’m looking to collaborate on ... Nothing for now
 - 📫 How to reach me ...
 - mainvlad85@gmail.com
